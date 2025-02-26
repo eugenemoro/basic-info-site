@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", serif;
+  background-color: lightgray;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+}
